@@ -2,23 +2,21 @@ This Repo Is to Make Testing C Code easy
 -
   This repo's main goal is to allow one to focus on working with C files and not having to worry about how to compile them. By running the script and entetring the name of your C file you will be able to, Compile the code, make an Executable, run the Executable, and move that Executable to the folder exe. All without having to type a single linux command!
 
+
 Setting up This Repo
 -
-After pulling from GitHub you will need to set this repo up.
+  After pulling from GitHub you will need to set this repo up.
 
-It will prompt you to select a language and a command.
+  It will prompt you to select a language and a command.
 
->language will be  `python`
+  ![](Capture.PNG)
 
->command will be `python3 main.py`
+  >language will be  `python`
 
-After this is entered just click done and use this how every you want ^_^ !
+  >command will be `python3 main.py`
 
+  After this is entered just click done and use this how every you want ^_^ !
 
-File Format
--
-
-  test name `test file name`
 
 This Repo Can
 -
@@ -27,6 +25,7 @@ This Repo Can
   >[x] Runs the Executable
 
   >[x] Keep Directory Clean
+
 
 Useful C Notes/Documentation
 -
