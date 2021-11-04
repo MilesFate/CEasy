@@ -14,7 +14,7 @@ This Repo Can
 
 Setting up This Repo
 -
-  To start you will want to make a new repl.
+  To start you will want to make a new repl. https://replit.com/~
 
   Select Import from GitHub. 
 
