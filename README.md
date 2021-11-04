@@ -4,10 +4,8 @@ This Repo Is to Make Testing C Code easy
 
 File Format
 -
-  mcf.c ` Main C File`
 
   test name `test file name`
-
 
 This Repo Can
 -
