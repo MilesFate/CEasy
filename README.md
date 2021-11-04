@@ -11,6 +11,8 @@ This Repo Can
 
   >[x] Keep Directory Clean
 
+  >[x] Help with C syntax
+
 
 Setting up This Repo
 -
@@ -32,9 +34,9 @@ Setting up This Repo
 
   It will prompt you to select a language and a command.
 
-  ![](Images/Capture.PNG)
+  ![](Images/Capture7.PNG)
 
-  >language will be  `python`
+  >language will be  `C`
 
   >command will be `python3 main.py`
 
