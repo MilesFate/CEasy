@@ -15,16 +15,24 @@ This Repo Can
 Setting up This Repo
 -
   To start you will want to make a new repl. https://replit.com/~
+  
+  ![](Images/Capture3.PNG)
 
-  Select Import from GitHub. 
+  Select `Import from GitHub. `
 
-  Paste this https://github.com/MilesFate/CEasy.git and select Import.
+  ![](Images/Capture6.PNG)
+
+  Paste this https://github.com/MilesFate/CEasy.git and select `Import`.
+
+  ![](Images/Capture5.PNG)
+
+  ![](Images/Capture4.PNG)
 
   After pulling from GitHub you will need to set this repo up.
 
   It will prompt you to select a language and a command.
 
-  ![](Capture.PNG)
+  ![](Images/Capture.PNG)
 
   >language will be  `python`
 
